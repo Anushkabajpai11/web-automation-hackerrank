@@ -3,8 +3,8 @@ const puppeteer=require('puppeteer')
 const codeObj=require('./codes')
 
 const loginLink='https://wwww.hackerrank.com/auth/login'
-const email='30318csaiml@gmail.com'
-const password='Anushka@1111'
+const email='********@gmail.com'
+const password='********'
 
 
 let browserOpen= puppeteer.launch({
