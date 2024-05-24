@@ -4,7 +4,7 @@
 
 This project automates tasks on HackerRank using Puppeteer, a powerful Node.js library for headless browser automation. It empowers you to streamline your workflow and save time on repetitive actions on the platform.
 
-Install the puppeteer dependency on your system.
+Install the puppeteer dependency on your system**.(using npm i puppeteer)**.
 npm i puppeteer
 then run the hr.js file by typing 
 node hr.js
